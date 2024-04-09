@@ -17,5 +17,3 @@ This repo contains all codes for the ECommerce freelance marketplace application
 * The `volumes` folder contains files that are used to run services for local development.
 * [Volumes README file](https://github.com/vynnydev/jobberapp-microservices/blob/main/infraestructure/volumes/README.md)
 * The `terraform` folder contains files that are used to build infraestructure in AWS cloud to run services
-
-TTTTT
