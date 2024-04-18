@@ -21,4 +21,4 @@ This repo contains all codes for the ECommerce freelance marketplace application
 <br />
 
 > ## Microservices on AWS:
-[![alt text](./infraestructure/images/aws-infra.png "Link para o treinamento")]
+![alt text](./infraestructure/images/aws-infra.png "Link para o treinamento")
