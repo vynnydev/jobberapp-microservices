@@ -38,6 +38,7 @@ This repo contains all codes for the ECommerce freelance marketplace application
 
     * Clean Architecture emphasizes the clear separation of responsibilities between these layers, with the internal layers (entities and use cases) being independent of the external layers (interfaces and adapters, and frameworks). This facilitates the maintenance, testability and evolution of the application, making it more scalable and adaptable to changes in requirements and technologies. 
 
+<br /><br />
 
 > ## Microservices Architecture:
 ![alt text](./infraestructure/images/project-architecture.png "Microservices on AWS")
