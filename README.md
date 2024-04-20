@@ -1,7 +1,8 @@
 <h1 align="center">Jobber Ecommerce</h1>
-<br />
+
 <p align="center">Ecommerce marketplace app using event-driven Microservices with Node, Typescript, Kubernetes, Terraform, AWS and React. 
 This repo contains all codes for the ECommerce freelance marketplace application.</p>
+<br />
 
 > ## Jobber Client
 * The `jobber-client` folder contains the frontend code.
