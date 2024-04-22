@@ -41,6 +41,44 @@ This repo contains all codes for the ECommerce freelance marketplace application
     Dependencies: It may depend on the other layers of the application to provide specific functionality, but the internal layers should not depend on it directly. 
 
     * Clean Architecture emphasizes the clear separation of responsibilities between these layers, with the internal layers (entities and use cases) being independent of the external layers (interfaces and adapters, and frameworks). This facilitates the maintenance, testability and evolution of the application, making it more scalable and adaptable to changes in requirements and technologies. 
+
+* Principles
+
+    * Single Responsibility Principle (SRP)
+    * Open Closed Principle (OCP)
+    * Liskov Substitution Principle (LSP)
+    * Interface Segregation Principle (ISP)
+    * Dependency Inversion Principle (DIP)
+    * Separation of Concerns (SOC)
+    * Don't Repeat Yourself (DRY)
+    * You Aren't Gonna Need It (YAGNI)
+    * Keep It Simple, Silly (KISS)
+    * Composition Over Inheritance
+    * Small Commits
+
+* Design Patterns
+
+    * Factory
+    * Adapter
+    * Composite
+    * Decorator
+    * Proxy
+    * Dependency Injection
+    * Abstract Server
+    * Singleton
+
+* Methodologies and Designs
+
+    * Clean Architecture
+    * DDD
+    * Conventional Commits
+    * GitFlow
+    * Modular Design
+    * Dependency Diagrams
+    * Use Cases
+    * Continuous Integration
+    * Continuous Delivery
+    * Continuous Deployment
 <br /><br />
 
 > ## Microservices Architecture:
